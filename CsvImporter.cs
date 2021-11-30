@@ -90,7 +90,7 @@ namespace BluebeamComSht
                     if (missingHeaders.Count > 0)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("\nERROR: Manadatory column(s) has/have not been imported from Bluebeam.\nPlease re-import the CSV Summary with " + string.Join(", ", missingHeaders) + " column(s).");
+                        Console.WriteLine("\nERROR: Mandatory column(s) has/have not been imported from Bluebeam.\nPlease re-import the CSV Summary with " + string.Join(", ", missingHeaders) + " column(s).");
                         Console.ResetColor();
 
                         Console.WriteLine(Properties.Resources.exit);
