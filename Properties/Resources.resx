@@ -148,7 +148,7 @@ Enter new file name for reformatted comment sheet (exclude file extension).</val
   </data>
   <data name="note" xml:space="preserve">
     <value>
-NOTE: If further formatting is applied to the comment sheet after opening, please remmeber to "Save As" an Excel spreadsheet to retain customisations.</value>
+NOTE: If further formatting is applied to the comment sheet after opening, please remember to "Save As" an Excel spreadsheet to retain customisations.</value>
     <comment>Additional note advising action required to convert csv file to Excel for further formatting customisation requirements.</comment>
   </data>
   <data name="retry" xml:space="preserve">
