@@ -1,8 +1,8 @@
 # Bluebeam CSV Summary Reformatter
-A Console Application to reformat Bluebeam CSV markup summaries into a more traditional comment sheet format.
+A console application to reformat Bluebeam CSV markup summaries into a more traditional comment sheet format.
 
 ## Purpose of this project
-This is a personal project born from the desire to practise coding. The application is inspired by a previous experience with transitioning users from paper to digital PDF reviews and frequent requests for compromise during the early adoption phase. This was an experiement as to whether it is possible to efficiently reformat the Bluebeam CSV markup summaries, rather than a tool that aims to advance the original PDF markup software.
+This is a personal project born from the desire to practise coding. The application is inspired by a previous experience with transitioning users from paper to digital PDF reviews and frequent requests for compromise during the early adoption phase. This was an experiement as to whether it is possible to efficiently reformat the Bluebeam CSV markup summaries, rather than a tool that aimed to advance the original PDF markup software.
 
 ## How does it work?
 1. After, exporting the Markups Summary in XSV format from Bluebeam, launch application
